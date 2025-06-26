@@ -106,7 +106,7 @@
                      midpoint_of_sigmoid_1 midpoint_of_sigmoid_2 midpoint_of_sigmoid_3 midpoint_of_sigmoid_4 midpoint_of_sigmoid_5
                      slope_at_midpoint_1 slope_at_midpoint_2 slope_at_midpoint_3 slope_at_midpoint_4 slope_at_midpoint_5 matrix_poro'
     sorted_indices = 'conditional/sorted_indices'
-    num_parallel_proposals = 1
+    num_parallel_proposals = 8
     num_tries = 5000
     seed = 100
     execute_on = PRE_MULTIAPP_SETUP
